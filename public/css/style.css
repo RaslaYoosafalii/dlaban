@@ -415,4 +415,16 @@ body{
 .intro-screen img{
     width:220px;
 }
+.phone-link{
+    color:white;
+    text-decoration:none;
+}
+
+.phone-link:visited{
+    color:white;
+}
+
+.phone-link:hover{
+    color:white;
+}
 }
