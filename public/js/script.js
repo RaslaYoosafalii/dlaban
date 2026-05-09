@@ -1,4 +1,5 @@
 console.log("D.Laban Loaded");
+
 if(window.innerWidth <= 768){
 
     const sliders = document.querySelectorAll(".products-grid");
