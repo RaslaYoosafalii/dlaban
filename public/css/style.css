@@ -417,7 +417,7 @@ body{
 }
 .phone-link{
     color:white;
-    text-decoration:none;
+    text-decoration: underline;
 }
 
 .phone-link:visited{
